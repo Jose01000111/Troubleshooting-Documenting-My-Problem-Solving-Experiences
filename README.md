@@ -20,15 +20,22 @@ I’ve started documenting some of my troubleshooting experiences. It helps me f
 
 A collection of my network troubleshooting notes 🌐
 
-### 🪟Windows
+### 🪟 Windows
 
 | Project | Description |
 |---------|-------------|
 | [💻 Windows 11 Ethernet Failure](https://github.com/Jose01000111/Windows-11-Ethernet-Failure-Troubleshooting-.git) | Troubleshooting Windows 11 Ethernet issues ⚡ |
+| [🏦 Troubleshoot DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) | Fixing static IP issues on Domain Controllers 🖥️ |
 
 ---
 
 ## **Software Troubleshooting 💾**
 
 Notes from my software troubleshooting adventures 💻
+
+### 📊 Splunk
+
+| Project | Description |
+|---------|-------------|
+| [🖥️ Phase-III GUI & Disk Space Troubleshooting](https://github.com/Jose01000111/Phase-III-GUI-Exploration-Disk-Space-Troubleshooting-Splunk-Server-Issue-.git) | GUI exploration and disk space troubleshooting on Splunk server 📊 |
 
