@@ -1,4 +1,4 @@
-# 🛠️ Troubleshooting: Documenting My Problem-Solving Experiences
+# 🛠️ Troubleshooting: Documenting My Problem-Solving Experiences 🔧💡
 
 I’ve started documenting some of my troubleshooting experiences. It helps me for future reference and showcases my problem-solving process.
 
@@ -6,16 +6,17 @@ I’ve started documenting some of my troubleshooting experiences. It helps me f
 
 ## **Network Troubleshooting 🌐**
 
-Some of my network troubleshooting experiences.
+A collection of my network troubleshooting notes 🌐
 
 ### Windows
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Windows 11 Ethernet Failure | My troubleshooting documentation for Windows 11 Ethernet issues | [GitHub Repo](https://github.com/Jose01000111/Windows-11-Ethernet-Failure-Troubleshooting-.git) |
+| Project | Description |
+|---------|-------------|
+| [💻 Windows 11 Ethernet Failure](https://github.com/Jose01000111/Windows-11-Ethernet-Failure-Troubleshooting-.git) | Troubleshooting Windows 11 Ethernet issues ⚡ |
 
 ---
 
-## **Software Troubleshooting 💻**
+## **Software Troubleshooting 💾**
 
-Some of my software troubleshooting experiences.
+Notes from my software troubleshooting adventures 💻
+
