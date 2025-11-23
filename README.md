@@ -20,7 +20,7 @@ I’ve started documenting some of my troubleshooting experiences. It helps me f
 
 A collection of my network troubleshooting notes 🌐
 
-### Windows
+### 🪟Windows
 
 | Project | Description |
 |---------|-------------|
