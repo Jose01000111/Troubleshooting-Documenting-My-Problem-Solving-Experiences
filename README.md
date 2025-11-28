@@ -2,18 +2,6 @@
 
 I’ve started documenting some of my troubleshooting experiences. It helps me for future reference and showcases my problem-solving process.
 
-## 📝 General Troubleshooting Steps
-
-| Step | Description |
-|------|-------------|
-| 1️⃣ | Identify the problem – observe the issue and gather information |
-| 2️⃣ | Check the basics – cables, connections, power, and settings |
-| 3️⃣ | Restart or reset – reboot devices or software if needed |
-| 4️⃣ | Test – verify functionality with simple tests or tools |
-| 5️⃣ | Research – look up error messages, logs, or common issues |
-| 6️⃣ | Apply a fix – make changes based on observations and research |
-| 7️⃣ | Document – record what worked and what didn’t for future reference |
-
 ---
 
 ## **Network Troubleshooting 🌐**
@@ -38,4 +26,11 @@ Notes from my software troubleshooting adventures 💻
 | Project | Description |
 |---------|-------------|
 | [🖥️ Phase-III GUI & Disk Space Troubleshooting](https://github.com/Jose01000111/Phase-III-GUI-Exploration-Disk-Space-Troubleshooting-Splunk-Server-Issue-.git) | GUI exploration and disk space troubleshooting on Splunk server 📊 |
+
+### 🔍 Tenable Scans
+
+| Project | Description |
+|---------|-------------|
+| [🖥️ Tenable Host Unroutable on Azure VM](https://github.com/Jose01000111/-Troubleshooting-Steps-Tenable-Host-Unroutable-on-Azure-VM.git) | Fixed “Host Unroutable” issue by verifying VM state, using **Internal Scanner + Local scan engine-01**, aligning VNets, and re-entering the private IP ✅ |
+
 
